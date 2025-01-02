@@ -1,5 +1,2 @@
- local/target
- remote/pastebin-client/target
- remote/pastebin-server/target
- **/.*.swp
-
+**/target 
+**/.*.swp
